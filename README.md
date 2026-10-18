@@ -1,58 +1,21 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img src="./dark.svg" alt="Kiroles Aziz — robotics engineering profile, focused on autonomous systems, perception, and multi-agent planning." width="100%">
-  </picture>
-</div>
+# 💫 About Me:
+🔭 I’m currently working on **VR-based robotic control using hand tracking**<br><br>👯 I’m looking to collaborate on **robotics, human–robot interaction, VR, and autonomous systems**<br><br>🤝 I’m looking for help with **integrating VR hand tracking with real-time robotic control**<br><br>🌱 I’m currently learning **ROS 2, robot control, computer vision, and human–robot interaction**<br><br>💬 Ask me about **robotics engineering, Arduino, embedded systems, VR, and robot simulation**<br><br>⚡ Fun fact: **I enjoy turning unconventional hardware into experimental robotics projects**
 
-<h1 align="center">Kiroles Aziz</h1>
-<p align="center">
-  <strong>Robotics Engineering · Autonomous Systems · Embedded Prototyping</strong>
-</p>
 
-<p align="center">
-  I build and investigate robotics systems across simulation, perception, and hardware — with a focus on understanding how algorithms behave when they meet the real world.
-</p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/k.ero) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_e.ro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kirolesaziz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirolesamirsobhy@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kerolinux&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kerolinux&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kerolinux&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Focus
-
-- **Robot perception & SLAM** — exploring visual SLAM with a low-cost toy drone and ORB-SLAM3.
-- **Multi-agent pathfinding** — comparing centralised and decentralised strategies in simulation.
-- **Embedded control** — prototyping with Arduino, sensors, actuators, and 3D-printed mechanisms.
-- **Simulation & integration** — using software experiments to test ideas before moving toward hardware.
-
-## Featured projects
-
-### [Vita Drone SLAM](https://github.com/kerolinux/vita-drone-slam)
-An experimental workflow for exploring ORB-SLAM3 with a PS Vita-controlled toy drone. The project includes camera calibration and a monocular image-sequence pipeline.
-
-### Multi-Agent Pathfinding — dissertation project
-Simulation-focused investigation of centralised and decentralised strategies for multi-agent pathfinding in environments that can be modified by agents. The aim is to study how planning choices affect pathfinding efficiency.
-
-### Self-Stabilising Camera Gimbal
-An Arduino-based pan/tilt gimbal prototype using an MPU6050 IMU, servo motors, and joystick control.
-
-## Engineering toolkit
-
-| Area | Tools and technologies |
-|---|---|
-| Programming | Python, C/C++, C# |
-| Robotics & perception | ROS 2 fundamentals, ORB-SLAM3 |
-| Embedded systems | Arduino, sensors, actuators |
-| Engineering tools | Linux, Git, SolidWorks |
-| Simulation & creative tooling | MATLAB, Unity, Blender |
-
-## Currently exploring
-
-- Reliable tracking and map/keyframe output in a monocular SLAM pipeline
-- Practical evaluation of multi-agent pathfinding strategies
-- Bridging simulation results with physical robot behaviour
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kerolinux&theme=synthwave&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kerolinux&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <sub>Designed around iterative engineering: model it, test it, measure it, improve it.</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
