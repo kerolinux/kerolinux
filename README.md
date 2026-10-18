@@ -1,120 +1,58 @@
-
-<!--
-  KEROLINUX | Robotics Engineering
-  Minimal terminal / ASCII aesthetic
--->
-
 <div align="center">
-
-```text
- _  ___ ____   ___  _     ___ _   _ _   ___  __
-| |/ / |  _ \ / _ \| |   |_ _| \ | | | | \ \/ /
-| ' /| | |_) | | | | |    | ||  \| | | | |\  /
-| . \| |  _ <| |_| | |___ | || |\  | |_| |/  \
-|_|\_\_|_| \_\\___/|_____|___|_| \_|\___//_/\_\
-
-       ROBOTICS ENGINEERING // AUTONOMOUS SYSTEMS
-```
-
-`[ SYSTEM ONLINE ]` · `PYTHON` · `C/C++` · `ROS 2`
-
-**Engineering intelligent systems that perceive, plan, and act.**
-
-[Repositories](https://github.com/kerolinux?tab=repositories) ·
-[Projects](https://github.com/kerolinux/vita-drone-slam)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img src="./dark.svg" alt="Kiroles Aziz — robotics engineering profile, focused on autonomous systems, perception, and multi-agent planning." width="100%">
+  </picture>
 </div>
 
+<h1 align="center">Kiroles Aziz</h1>
+<p align="center">
+  <strong>Robotics Engineering · Autonomous Systems · Embedded Prototyping</strong>
+</p>
+
+<p align="center">
+  I build and investigate robotics systems across simulation, perception, and hardware — with a focus on understanding how algorithms behave when they meet the real world.
+</p>
+
 ---
 
-### `01 / ABOUT`
+## Focus
 
-```yaml
-name: Kiroles Amir
-role: Robotics Engineering Student
-focus:
-  - Autonomous robotics
-  - Visual SLAM and computer vision
-  - Motion planning and multi-agent systems
-  - Embedded systems and robot control
-currently: Building and testing robotic systems
-goal: Autonomous Robotics Engineer
-```
+- **Robot perception & SLAM** — exploring visual SLAM with a low-cost toy drone and ORB-SLAM3.
+- **Multi-agent pathfinding** — comparing centralised and decentralised strategies in simulation.
+- **Embedded control** — prototyping with Arduino, sensors, actuators, and 3D-printed mechanisms.
+- **Simulation & integration** — using software experiments to test ideas before moving toward hardware.
 
-I work at the intersection of robotics software, hardware, and simulation.
-My goal is to understand not only how robotic systems work, but how to
-design, implement, test, and evaluate them in real environments.
+## Featured projects
 
-### `02 / CURRENT SYSTEMS`
+### [Vita Drone SLAM](https://github.com/kerolinux/vita-drone-slam)
+An experimental workflow for exploring ORB-SLAM3 with a PS Vita-controlled toy drone. The project includes camera calibration and a monocular image-sequence pipeline.
 
-```text
-[01] VITA DRONE SLAM
-     ├── Monocular vision
-     ├── Camera calibration
-     ├── ORB-SLAM3 integration
-     └── Tracking and trajectory analysis
+### Multi-Agent Pathfinding — dissertation project
+Simulation-focused investigation of centralised and decentralised strategies for multi-agent pathfinding in environments that can be modified by agents. The aim is to study how planning choices affect pathfinding efficiency.
 
-[02] MULTI-AGENT PATHFINDING
-     ├── Centralized vs decentralized planning
-     ├── Collision avoidance
-     ├── Agent coordination
-     └── Simulation and performance evaluation
+### Self-Stabilising Camera Gimbal
+An Arduino-based pan/tilt gimbal prototype using an MPU6050 IMU, servo motors, and joystick control.
 
-[03] EMBEDDED ROBOTICS
-     ├── Arduino and sensor integration
-     ├── Actuator control
-     └── CAD and physical prototyping
-```
+## Engineering toolkit
 
-### `03 / TECH STACK`
+| Area | Tools and technologies |
+|---|---|
+| Programming | Python, C/C++, C# |
+| Robotics & perception | ROS 2 fundamentals, ORB-SLAM3 |
+| Embedded systems | Arduino, sensors, actuators |
+| Engineering tools | Linux, Git, SolidWorks |
+| Simulation & creative tooling | MATLAB, Unity, Blender |
 
-| Domain | Tools |
-|:--|:--|
-| Languages | Python, C, C++ |
-| Robotics | ROS 2, Arduino |
-| Vision & SLAM | OpenCV, ORB-SLAM3 |
-| Simulation & CAD | Robotics simulation, SolidWorks |
-| Development | Git, Linux, CMake |
+## Currently exploring
 
-### `04 / FEATURED REPOSITORY`
-
-**`vita-drone-slam`**
-
-A low-cost drone experimentation project exploring monocular visual SLAM
-using a toy drone camera and ORB-SLAM3.
-
-- Camera calibration and image preprocessing
-- SLAM build and dataset integration
-- Investigation of tracking and keyframe trajectory output
-- Exploring real-time integration with drone control
-
-[ `VIEW SOURCE CODE →` ](https://github.com/kerolinux/vita-drone-slam)
-
-### `05 / ENGINEERING PRINCIPLES`
-
-```text
-PERCEIVE  ->  ESTIMATE  ->  PLAN  ->  ACT
-    ^                                  |
-    |___________ FEEDBACK _____________|
-
-Build. Measure. Debug. Iterate.
-```
-
-I value reproducible experiments, clear documentation, measurable results,
-and understanding why a system succeeds or fails.
+- Reliable tracking and map/keyframe output in a monocular SLAM pipeline
+- Practical evaluation of multi-agent pathfinding strategies
+- Bridging simulation results with physical robot behaviour
 
 ---
 
 <div align="center">
-
-```text
-$ ./build_future.sh
-
-[INFO] Learning continuously...
-[INFO] Testing in progress...
-[INFO] Autonomy: under development
-```
-
-`END OF FILE // KEROLINUX`
-
+  <sub>Designed around iterative engineering: model it, test it, measure it, improve it.</sub>
 </div>
